@@ -1,3 +1,14 @@
+<?php
+
+var files = <?php $out = array();
+foreach (glob('./*.pdf') as $filename) {
+    $p = pathinfo($filename);
+    $out[] = $p['filename'];
+}
+echo json_encode($out); ?>;
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
