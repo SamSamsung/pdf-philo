@@ -4,7 +4,7 @@ function handleClick(event) {
   }
 
 
-  var L = ["Anneau de Gyges", "Bonheur au travail", "Cours Rousseau", "Critique du travail textes", "Diogene", "Droits de l'homme robespierre et tocqueville doc", "Jaures", "L'experience de Milgram Description de l'experience de base","Le travail est le propre de l'homme", "Marx alienation", "Pierre Clastres", "Telephone portable", "Textes Bakounine Staline", "TEXTES ROUSSEAU", "Textes technique"]
+  var L = ["Anneau de Gyges", "Bonheur au travail", "Cours Rousseau", "Critique du travail textes", "Diogene", "Droits de l'homme robespierre et tocqueville doc", "Jaures", "L'experience de Milgram Description de l'experience de base", "Le cas Eichmann Arendt et la banalite du mal", "Le travail est le propre de l'homme", "Marx alienation", "Pierre Clastres", "Telephone portable", "Textes Bakounine Staline", "TEXTES ROUSSEAU", "Textes technique"]
   window.addEventListener('load', (event) => {
     titles = document.getElementsByClassName("title");
     for(i=0; i< L.length; i++){
