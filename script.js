@@ -5,6 +5,7 @@ function handleClick(event) {
 
 
   var L = ["Anneau de Gyges", 
+           "Beigbeder",
            "Bernays texte",
            "Bonheur au travail", 
            "Cours Rousseau", 
