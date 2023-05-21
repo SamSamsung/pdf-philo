@@ -20,6 +20,7 @@ function handleClick(event) {
            "Le desir du desir de l'autre Texte",
            "Le travail est le propre de l'homme", 
            "Marx alienation", 
+           "Mythe d'Aristphane",
            "Pierre Clastres", 
            "Second Discours", 
            "Singer texte", 
