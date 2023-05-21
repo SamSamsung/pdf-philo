@@ -20,6 +20,7 @@ function handleClick(event) {
            "Second Discours", 
            "Singer texte", 
            "Telephone portable", 
+           "Texte le divertissement",
            "Textes Bakounine Staline", 
            "TEXTES ROUSSEAU", 
            "Textes technique"
