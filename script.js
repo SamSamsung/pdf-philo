@@ -9,6 +9,7 @@ function handleClick(event) {
            "Cours Rousseau", 
            "Critique du travail textes", 
            "Diogene", 
+           "Documents scannes",
            "Droits de l'homme robespierre et tocqueville doc", 
            "Jaures", 
            "L'experience de Milgram Description de l'experience de base", 
