@@ -12,6 +12,7 @@ function handleClick(event) {
            "Critique du travail textes", 
            "Diogene", 
            "Documents scannes",
+           "Dossier de textes Don Juan",
            "Droits de l'homme robespierre et tocqueville doc", 
            "Jaures", 
            "L'experience de Milgram Description de l'experience de base", 
