@@ -15,6 +15,7 @@ function handleClick(event) {
            "Dossier de textes Don Juan",
            "Droits de l'homme robespierre et tocqueville doc", 
            "Jaures", 
+           "Kant Prince",
            "L'experience de Milgram Description de l'experience de base", 
            "Le cas Eichmann Arendt et la banalite du mal", 
            "Le desir du desir de l'autre Texte",
