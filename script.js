@@ -5,6 +5,7 @@ function handleClick(event) {
 
 
   var L = [
+           "Affaire Caillaux",
            "Althusser",
            "Anneau de Gyges", 
            "Beigbeder",
