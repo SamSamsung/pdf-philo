@@ -13,6 +13,7 @@ function handleClick(event) {
            "Beigbeder",
            "Bernays texte",
            "Bonheur au travail", 
+           "Coca pepsi doc eleves",
            "Cours Rousseau", 
            "Critique du travail textes", 
            "Diogene", 
