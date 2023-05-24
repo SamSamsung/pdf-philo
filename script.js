@@ -8,6 +8,7 @@ function handleClick(event) {
            "Affaire Caillaux",
            "Althusser",
            "Anneau de Gyges", 
+           "Article la loi du Kanun",
            "Articles Vendetta",
            "Beigbeder",
            "Bernays texte",
