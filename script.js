@@ -19,6 +19,7 @@ function handleClick(event) {
            "Documents scannes",
            "Dossier de textes Don Juan",
            "Droits de l'homme robespierre et tocqueville doc", 
+           "Experience de Libet",
            "Jaures", 
            "Kant Prince",
            "L'experience de Milgram Description de l'experience de base", 
