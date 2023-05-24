@@ -30,6 +30,7 @@ function handleClick(event) {
            "Marx alienation", 
            "Mythe d'Aristphane",
            "Pierre Clastres", 
+           "Sarkozy Onfray",
            "Second Discours", 
            "Singer texte", 
            "Telephone portable", 
