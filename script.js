@@ -27,6 +27,7 @@ function handleClick(event) {
            "Le cas Eichmann Arendt et la banalite du mal", 
            "Le desir du desir de l'autre Texte",
            "Le travail est le propre de l'homme", 
+           "Les fusilles pour l'exemple",
            "Marx alienation", 
            "Mythe d'Aristphane",
            "Pierre Clastres", 
