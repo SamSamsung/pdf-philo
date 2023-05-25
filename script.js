@@ -38,6 +38,7 @@ function handleClick(event) {
            "Telephone portable", 
            "Texte Callicles Socrate",
            "Texte le divertissement",
+           "Texte Rousseau",
            "Textes Bakounine Staline", 
            "TEXTES ROUSSEAU", 
            "Textes technique"
