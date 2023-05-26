@@ -10,6 +10,7 @@ function handleClick(event) {
            "Anneau de Gyges", 
            "Article la loi du Kanun",
            "Articles Vendetta",
+           "Axel Kahn",
            "Beigbeder",
            "Bernays texte",
            "Bonheur au travail", 
