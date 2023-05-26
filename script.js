@@ -23,6 +23,7 @@ function handleClick(event) {
            "Dossier de textes Don Juan",
            "Droits de l'homme robespierre et tocqueville doc", 
            "Experience de Libet",
+           "garcon de cafe",
            "Jaures", 
            "Kant Prince",
            "L'experience de Milgram Description de l'experience de base", 
