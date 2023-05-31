@@ -24,7 +24,7 @@ function handleClick(event) {
            "Droits de l'homme robespierre et tocqueville doc", 
            "Experience de Libet",
            "garcon de cafe",
-           "Hypermnesie"
+           "Hypermnesie",
            "Jaures", 
            "Kant Prince",
            "L'experience de Milgram Description de l'experience de base",
