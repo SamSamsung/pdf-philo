@@ -44,6 +44,7 @@ function handleClick(event) {
            "Texte Aristote",
            "Texte Callicles Socrate",
            "Texte le divertissement",
+           "Texte Nietzsche",
            "Texte Rousseau",
            "Textes Bakounine Staline", 
            "TEXTES ROUSSEAU", 
